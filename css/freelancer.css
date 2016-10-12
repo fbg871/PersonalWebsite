@@ -190,9 +190,9 @@ section.success {
   color: white;
 }
 @media (max-width: 767px) {
-  section {
-    padding: 75px 0;
-  }
+  section { 
+  height: 100vh; 
+}
   section.first {
     padding-top: 75px;
   }
